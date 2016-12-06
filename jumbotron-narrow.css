@@ -7,6 +7,7 @@ body {
 
 .navbar {
   background-color: #3a4664 ;
+  margin-bottom: 10px;
 }
 /*#F5B0AE
 /* Everything but the jumbotron gets side spacing for mobile first views #FF91A4*/
@@ -40,7 +41,7 @@ body {
 /* Customize container */
 @media (min-width: 768px) {
   .container {
-    max-width: 730px;
+    max-width: 850px;
   }
 }
 .container-narrow > hr {
@@ -52,6 +53,7 @@ body {
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
   background-color: #779ecb;
+  margin: 50px;
 }
 .jumbotron .btn {
   padding: 14px 24px;
