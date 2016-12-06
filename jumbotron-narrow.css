@@ -6,8 +6,9 @@ body {
 }
 
 .navbar {
-  background-color: #F5B0AE;
+  background-color: #3a4664 ;
 }
+/*#F5B0AE
 /* Everything but the jumbotron gets side spacing for mobile first views #FF91A4*/
 .header,
 .marketing,
