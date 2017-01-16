@@ -8,6 +8,13 @@ body {
 .navbar {
   background-color: #3a4664 ;
   margin-bottom: 10px;
+  font-size:20px;
+}
+
+.nav-pills,
+.navbar-brand {
+  font-size: 25px;
+
 }
 /*#F5B0AE
 /* Everything but the jumbotron gets side spacing for mobile first views #FF91A4*/
