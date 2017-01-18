@@ -16,6 +16,11 @@ body {
   font-size: 25px;
 
 }
+
+img {
+  max-width: 100%;
+}
+
 /*#F5B0AE
 /* Everything but the jumbotron gets side spacing for mobile first views #FF91A4*/
 .header,
