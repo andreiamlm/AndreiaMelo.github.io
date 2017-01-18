@@ -19,9 +19,12 @@ body {
 
 img {
   max-width: 100%;
+  height: auto;
 }
 
-/*#F5B0AE
+h1 {
+  padding: 25px;
+}/*#F5B0AE
 /* Everything but the jumbotron gets side spacing for mobile first views #FF91A4*/
 .header,
 .marketing,
