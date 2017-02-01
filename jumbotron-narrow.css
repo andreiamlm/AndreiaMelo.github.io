@@ -3,6 +3,7 @@ body {
   padding-top: 30px;
   padding-bottom: 20px;
   background-color:#FFC6B4;
+  font-family: 'Lato', sans-serif;
 }
 
 .navbar {
@@ -13,7 +14,7 @@ body {
 
 .nav-pills,
 .navbar-brand {
-  font-size: 25px;
+  font-size: 15px;
 
 }
 
@@ -57,7 +58,7 @@ h1 {
   padding-top: 19px;
   color: #000;
   border-top: 1px solid #e5e5e5;
-  margin-top: 350px;
+  margin-top: 150px;
 }
 
 /* Customize container */
