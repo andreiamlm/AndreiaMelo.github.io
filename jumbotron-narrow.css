@@ -6,6 +6,11 @@ body {
   font-family: 'Lato', sans-serif;
 }
 
+.container-fluid {
+  width: 100%;
+}
+
+
 .navbar {
   background-color: #3a4664 ;
   margin-bottom: 10px;
@@ -15,7 +20,21 @@ body {
 .nav-pills,
 .navbar-brand {
   font-size: 15px;
+  border-radius: 0px;
 
+}
+
+
+#about {
+  background-color: #779ecb;
+  margin: 0px;
+  width: 100vw;
+}
+
+p.lead {
+  font-size: 35px;
+  text-align: center;
+  font-weight: bold; 
 }
 
 img {
@@ -72,15 +91,19 @@ h1 {
 }
 
 /* Main marketing message and sign up button */
-.jumbotron {
+/*.jumbotron {
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
   background-color: #779ecb;
-  margin: 50px;
+  margin: -5px;
 }
 .jumbotron .btn {
   padding: 14px 24px;
   font-size: 21px;
+}
+
+h1.jumbotron {
+  font-size: 20px;
 }
 
 /* Supporting marketing content */
