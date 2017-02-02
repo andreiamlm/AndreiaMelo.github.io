@@ -6,10 +6,6 @@ body {
   font-family: 'Lato', sans-serif;
 }
 
-.container-fluid {
-  width: 100%;
-}
-
 
 .navbar {
   background-color: #3a4664 ;
@@ -27,8 +23,8 @@ body {
 
 #about {
   background-color: #779ecb;
+  padding: 50px;
   margin: 0px;
-  width: 100vw;
 }
 
 p.lead {
